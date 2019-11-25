@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## How to useful
+## How to use
 
 After running the app, input names on different lines to generate nametags for
 each of them with a greeting in a language of your choice. You can then choose
