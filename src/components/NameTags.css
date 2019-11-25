@@ -1,0 +1,18 @@
+.nameTag {
+  font-size: 50px;
+  background: #33bbbbce;
+  width: 50%;
+  text-align: center;
+  margin: 1em auto 1em;
+  padding: 1.5em;
+  border-radius: 35px;
+  border: 2px solid #f1cdb0ce;
+}
+
+.nameTag__greeting {
+  font-size: 1em;
+}
+
+.nameTag__name {
+  font-size: 1.5em;
+}
